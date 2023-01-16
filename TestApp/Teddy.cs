@@ -8,5 +8,9 @@ namespace TestApp
 {
     internal class Teddy
     {
+        public void MaMethode()
+        {
+            Console.WriteLine("Ceci est la méthode de Teddy!");
+        }
     }
 }
