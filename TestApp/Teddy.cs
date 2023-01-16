@@ -10,7 +10,7 @@ namespace TestApp
     {
         public void MaMethode()
         {
-            Console.WriteLine("Ceci est la méthode de Teddy! : Ajoute de texte venant de Teddy");
+            Console.WriteLine("Ceci est la méthode de Teddy! : Ajout de texte venant de Teddy");
         }
     }
 }
